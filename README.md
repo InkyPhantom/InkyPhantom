@@ -12,7 +12,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=unity&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/uniyt-Unity-lightgrey">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
