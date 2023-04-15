@@ -31,7 +31,7 @@
 <p align="left">
   <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=InkyPhantom&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=InkyPhantom&theme=tokyonight&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=InkyPhantom&theme=tokyonight&hide_border=true&mode=weekly">		  
   </a>
 </p>
 <br>
