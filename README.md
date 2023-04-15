@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Unreal engine-black?style=for-the-badge&logo=unreal engine&logoColor=white">
   <img src="https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C Sharp-#8A2BE2?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/CSharp-#8A2BE2?style=for-the-badge&logo=csharp&logoColor=white">
   
 
 </div>
