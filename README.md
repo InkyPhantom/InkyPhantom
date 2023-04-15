@@ -26,7 +26,15 @@
 </p>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InkyPhantom&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=InkyPhantom&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=InkyPhantom&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
 
 <!--
 **InkyPhantom/InkyPhantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
