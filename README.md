@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Game Development
-- 🌱 I’m currently learning Unity and Blender
+- 🌱 I’m currently learning Machine Learning, Unity and Blender
+- 🔭 Interested in working on AI and ML in Game development
+- 🔭 Favourite Pass time is making pointless Unity Games
+- 
 
 <!--
 **InkyPhantom/InkyPhantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
