@@ -13,7 +13,7 @@
 <p>
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Unrealengine-black?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Unrealengine-black?style=for-the-badge&logo=unreal+engine&logoColor=white">
 
 </div>
 </p>
